@@ -5,7 +5,7 @@ EDK2 port FrameBufferSerialPortLib
 [![download](https://img.shields.io/github/downloads/serdeliuk/FrameBufferSerialPortLib/total)](https://github.com/serdeliuk/FrameBufferSerialPortLib/releases/download/1/FrameBufferSerialPortLib.zip)
 
 - Please replace in `FrameBufferSerialPortLib.c` DELAY variable value with your own prefered value in microseconds
-Default value is 0.2s
+<br>Default value is 0.2s
 
 `UINTN delay = 200000; // 0.2s`
 <br> Below are few examples how to set the delay value
