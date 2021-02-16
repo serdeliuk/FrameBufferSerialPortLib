@@ -10,10 +10,10 @@ Default value is 0.2s
 `UINTN delay = 200000; // 0.2s`
 <br> Below are few examples how to set the delay value
 ```
-1000000 = 1s <br>
- 500000 = 0.5s <br>
- 100000 = 0.1s <br>
-
+1000000 = 1s
+ 500000 = 0.5s
+ 100000 = 0.1s
+      0 = disable delay
 ```
 
 
