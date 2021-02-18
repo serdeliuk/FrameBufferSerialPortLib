@@ -16,6 +16,10 @@ EDK2 port FrameBufferSerialPortLib
       0 = disable delay
 ```
 
+You can change the color of the text output to GREEN or red using following escape chars
+
+` \v for GREEN \v` v for victory <br>
+` \a for RED \a` a for alert 
 
 I hope that will help in your future projects<br><br>
 Have fun!
