@@ -2,7 +2,7 @@
 EDK2 port FrameBufferSerialPortLib
 
 
-[![download](https://img.shields.io/github/downloads/serdeliuk/FrameBufferSerialPortLib/total)](https://github.com/serdeliuk/FrameBufferSerialPortLib/releases/download/1/FrameBufferSerialPortLib.zip)
+[![download](https://img.shields.io/github/downloads/serdeliuk/FrameBufferSerialPortLib/total)](https://github.com/serdeliuk/FrameBufferSerialPortLib/releases/download/2/FrameBufferSerialPortLib.2.zip)
 
 - Please replace in `FrameBufferSerialPortLib.c` DELAY variable value with your own prefered value in microseconds
 <br>Default value is 0.2s
